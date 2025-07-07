@@ -1,11 +1,14 @@
 {
- "title": "Follow button on profile",
- "description": "Show the follow button on your own profile. No more inspect element!",
- "credits": [
-   { "username": "Radical/Knightbot63", "url": "https://scratch.mit.edu/users/Knightbot63/" }
- ],
- "type": ["Website"],
- "tags": ["New", "Featured"],
- "dynamic": true,
- "scripts": [{ "file": "script.js", "runOn": "/*" }]
+  "title": "Follow button on profile",
+  "description": "Show the follow button on your own profile. No more inspect element!",
+  "credits": [
+    {
+      "username": "Radical/Knightbot63",
+      "url": "https://scratch.mit.edu/users/Knightbot63/"
+    }
+  ],
+  "type": ["Website"],
+  "tags": ["New", "Featured"],
+  "dynamic": true,
+  "scripts": [{ "file": "script.js", "runOn": "/*" }]
 }
