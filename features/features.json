@@ -1,6 +1,10 @@
 [
   {
     "version": 2,
+    "id": "name of the folder that you made for your feature"
+  },
+  {
+    "version": 2,
     "id": "copy-paste-lists",
     "versionAdded": "v4.2.0"
   },

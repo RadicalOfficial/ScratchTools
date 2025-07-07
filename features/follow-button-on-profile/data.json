@@ -1,0 +1,17 @@
+{
+ "title": "Follow button on profile",
+ "description": "Show the follow button on your own profile. No more inspect element!",
+ "credits": [
+   { "username": "Radical/Knightbot63", "url": "https://scratch.mit.edu/users/Knightbot63/" }
+ ],
+ "type": ["Website"],
+ "tags": ["New", "Featured"],
+ "dynamic": true,
+ "default": false,
+ "resources": [
+    { "name": "my-resource", "path": "/resource.svg" }
+  ],
+  "options": [{ "id": "option-id", "name": "My Option", "type": 1 }],
+ "scripts": [{ "file": "script.js", "runOn": "/" }],
+ "styles": [{ "file": "style.css", "runOn": "/" }]
+}
